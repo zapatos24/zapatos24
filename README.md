@@ -10,7 +10,7 @@ A data pipeline to manipulate records from VAN and build a dashboard to find new
 [View GitHub code](https://github.com/zapatos24/va02_volunteer_book) or [View the Dashboard](https://datastudio.google.com/reporting/86e40642-b278-411b-832c-d3ebdce69fef/page/kBxcB).  
 
 Using an LSTM Neural Net to predict employment levels in the US (pre-COVID).  
-[View GitHub code](https://github.com/zapatos24/Employment_Prediction_LSTM_NN)
+[View GitHub code](https://github.com/zapatos24/Employment_Prediction_LSTM_NN).
 
 My [Tableau Porfolio](https://public.tableau.com/profile/jeremy.owens#!/).
 
