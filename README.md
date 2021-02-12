@@ -2,7 +2,7 @@
 I'm Jeremy (he/him)! I’m a Data Scientist on a mission to make our society more equitable, showing leaders how to make data driven decisions in moving our country forward. My most recent work has involved publicly distributed mapping visualizations as well as performance tracking for recruitment in campaign operations, from ETL through dashboard construction. I also built a machine learning model on AWS to predict how senators would vote on a given bill, you can check it out [here](senator-prediction.jeremytraberowens.com).
 
 ### My Data Science Projects:
-An XGBoost model deployed on AWS, using NLP to predict how senators would vote on a bill.  
+An XGBoost model deployed on AWS, using NLP to predict how senators would vote on a given bill.  
 [View GitHub code](https://github.com/zapatos24/senator_nlp_vote_prediction) or [View the app](senator-prediction.jeremytraberowens.com).  
 
 A data pipeline to manipulate records from VAN and build a dashboard to find new leads and track performance.  
