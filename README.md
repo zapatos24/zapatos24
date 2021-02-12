@@ -33,7 +33,7 @@ Using an LSTM neural net to predict employment levels in the US (pre-COVID).
 
 ### Contact:
 Website: www.jeremytraberowens.com  
-LinkedIn: https://www.linkedin.com/in/jeremytraberowens/  
+LinkedIn: www.linkedin.com/in/jeremytraberowens/  
 Email: jeremy@jeremytraberowens.com  
 
 
