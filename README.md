@@ -21,7 +21,7 @@ Using an LSTM neural net to predict employment levels in the US (pre-COVID).
 * Python Analysis (Numpy, Pandas)
 * Python Machine Learning / Deep Learning / NLP (SciKit-Learn, TensorFlow)
 * Python Web Scraping (BeautifulSoup, requests)
-* Visualization (Matplotlib, Seaborn, Google DataStudio, Tableau)
+* Visualization (Tableau, Google DataStudio, Matplotlib/Seaborn)
 * Git
 
 #### Web
