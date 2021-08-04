@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Jeremy (he/him)! I’m a Data Scientist on a mission to make our society more equitable, showing leaders how to make data driven decisions in moving our country forward. My most recent work has involved publicly distributed mapping visualizations as well as performance tracking for recruitment in campaign operations, from ETL through dashboard construction. I also built a machine learning model on AWS to predict how senators would vote on a given bill, you can check it out [here](senator-prediction.jeremytraberowens.com).
+I'm Jeremy (he/him)! I’m a Data Scientist and Software Engineer on a mission to make our world a better place, whether that's helping progressive leaders get elected to Congress, or fighting climate change through ML optimized home energy use. My most recent work has involved qualitative and quantitative analysis on predictive modeling of user comfort, developing a performance simulation engine to test algorithm changes prior to production deployment, and performance tracking for recruitment in campaign operations, from ETL through dashboard construction. I also have experience in data acquisition, modeling, time series analysis, and machine and deep learning.
 
 ### My Data Science Projects:
 An XGBoost model deployed on AWS, using NLP to predict how senators would vote on a given bill.  
