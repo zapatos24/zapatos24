@@ -17,20 +17,21 @@ An LSTM neural net to predict employment levels in the US (pre-COVID).
 ### My Skills:
 
 #### Software and Programming
-* Jupyter Notebooks
+* Python Software Development
 * Python Analysis (Numpy, Pandas)
-* Python Machine Learning / Deep Learning / NLP (SciKit-Learn, TensorFlow)
-* Python Web Scraping (BeautifulSoup, requests)
+* Machine Learning / Deep Learning / NLP (SciKit-Learn, TensorFlow)
+* API integration and web scraping (Postman, BeautifulSoup, requests)
 * Visualization (Tableau, Google DataStudio, Matplotlib/Seaborn)
 * Docker
 * Git
 
 #### Web
-* Amazon Web Services (S3, EC2, ECR, Sagemaker, Route53)
+* Amazon Web Services (EC2, ECR, Sagemaker, Route53, SQS, DynamoDB, S3)
 
 #### Database
 * MySQL
 * PostgreSQL
+
 
 ### Contact:
 Website: www.jeremytraberowens.com  
