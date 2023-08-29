@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Jeremy (he/him). I’m a Machine Learning Engineer fighting climate change through ML optimized home energy use. 
 
-I currently help lead and build cutting edge products on the ML and Optimization team at Uplight, managing home energy use across 10,000+ locations to prevent blackouts, save users money, and make the grid run cleaner. 
+I currently tech lead and build cutting edge products for the ML and Optimization team at Uplight, managing home energy use across 10,000+ locations to prevent blackouts, save users money, and make the grid run cleaner. 
 
 My recent work has involved building optimization formulations for home energy use, building data ingestion and transformation microservices for smart thermostat and EV telemetry data, and designing novel ML algorithms for solar panel generation and in home user comfort.
 
